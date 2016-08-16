@@ -1,0 +1,20 @@
+img.resize {
+   width: 150px;
+   height: auto;
+   position: relative;
+   left: 475px;
+}
+
+h1 {
+  background-color: rgba(255,255,255,0.9);
+  font-size: 50px;
+}
+
+p {
+  background-color: rgba(255,255,255,0.9);
+  font-size: 25px;
+}
+
+body {
+  background-image: url("http://s.quickmeme.com/img/e7/e7dfddcabe60f105b145838ed69c7565ddf19f5b9fafa4dd31610c85dfdc7611.jpg");
+}

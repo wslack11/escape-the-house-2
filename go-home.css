@@ -1,0 +1,13 @@
+h1 {
+  background-color: rgba(255,255,255,0.9);
+  font-size: 50px;
+}
+
+h2 {
+  background-color: rgba(255,255,255,0.9);
+  font-size: 35px;
+}
+
+body {
+  background-image: url("http://www.tvweek.com/news/bill%20cosby%20as%20cliff%20huxtable.png");
+}
